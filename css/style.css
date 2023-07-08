@@ -187,8 +187,8 @@
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-    width: 5.5rem;
-    height: 5.5rem;
+    width: 3.5rem;
+    height: 3.5rem;
     border-radius: 3.5rem;
     background-color: var(--dark);
     border: 15px solid var(--dark);
