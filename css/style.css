@@ -308,7 +308,7 @@
 
 /*** About ***/
 .video {
-    background: linear-gradient(rgba(136, 180, 78, .85), rgba(165, 185, 138, 0.85)), url(../img/video-bg.jpg) center center no-repeat;
+    background: linear-gradient(rgba(219, 223, 213, 0.85), rgba(122, 115, 144, 0.85)), url(../img/video-bg.jpg) center center no-repeat;
     background-size: cover;
 }
 
